@@ -1,1 +1,1 @@
-export const DN_NAME = "LokeyParry"
+export const DB_NAME = "LokeyParry"
