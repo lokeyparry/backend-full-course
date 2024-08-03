@@ -1,0 +1,11 @@
+{
+  "name": "backend-full-course",
+  "version": "1.0.0",
+  "description": "this is first backend course for me ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parvej Ansari",
+  "license": "ISC"
+}
