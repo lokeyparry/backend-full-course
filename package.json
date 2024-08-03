@@ -1,11 +1,15 @@
 {
-  "name": "backend-full-course",
-  "version": "1.0.0",
-  "description": "this is first backend course for me ",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Parvej Ansari",
-  "license": "ISC"
+    "name": "backend-full-course",
+    "version": "1.0.0",
+    "description": "this is first backend course for me ",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "author": "Parvej Ansari",
+    "license": "ISC",
+    "dependencies": {
+        "nodemon": "^3.1.4"
+    }
 }
